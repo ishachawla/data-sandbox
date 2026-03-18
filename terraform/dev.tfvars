@@ -1,0 +1,5 @@
+project_id  = "data-sandbox-dev-488022"
+region      = "us-central1"
+environment = "dev"
+bq_dataset  = "data_sandbox_dev"
+bq_location = "US"
